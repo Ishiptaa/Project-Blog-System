@@ -3,7 +3,6 @@ A full-stack blog system built using Django (backend) and React.js (frontend), w
 Features
 ✔️ List blogs with relevant details
 ✔️ View detailed information about a selected blog post
-✔️ API integration to fetch and display country details
 ✔️ User authentication (if implemented)
 ✔️ Search and filter functionality (if implemented)
 ✔️ Likes and comments feature (if implemented)
